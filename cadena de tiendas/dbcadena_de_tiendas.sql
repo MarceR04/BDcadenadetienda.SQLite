@@ -1,3 +1,5 @@
+import sqlite3
+
 CREATE TABLE Categoria (
     id INT PRIMARY KEY,
     nombre VARCHAR(255)
